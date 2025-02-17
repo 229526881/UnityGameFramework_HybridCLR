@@ -24,7 +24,7 @@ namespace HuaTuo
 #else
         , IPostprocessBuildWithReport
 #endif
-        , IFilterBuildAssemblies, IPostBuildPlayerScriptDLLs, IUnityLinkerProcessor, IIl2CppProcessor
+        , IFilterBuildAssemblies, IPostBuildPlayerScriptDLLs, IUnityLinkerProcessor
     {
 
 
